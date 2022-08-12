@@ -1,0 +1,33 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+body{
+    background-color:aqua;
+    color:rgb(219, 26, 26);
+}
+.btn{
+    border-radius: 5px;
+}
+.skills{
+    margin-left: 150px;
+    padding: 10px 5px;
+    margin-top: 9px;
+    display: block;
+    width: 500;
+    height: 600px;
+}
+.one{
+    display: block;
+}
+.two{
+    display:inline-block;
+    margin-left: 200px;
+}
+.three{
+    display:block;
+}
+.four{
+    display:block;
+    margin-left:200px ;
+}
